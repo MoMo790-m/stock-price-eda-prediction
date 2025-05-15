@@ -47,5 +47,5 @@ This project wasn’t just about building a predictive model, it connected data 
 Stock price data is notoriously noisy and unpredictable. Through this project, we combined EDA, statistical modeling, and machine learning to extract meaning from the chaos. The result is a framework that not only describes past behavior but hints at future movement something every analyst, investor, or researcher needs.
 
 ---
+ This project offers a complete journey from raw stock data to actionable insights and reliable forecasts, showcasing the practical value of time series analysis in financial contexts.
 
-Check out the notebook to follow the full pipeline, from raw data to interpreted signals and accurate predictions.
